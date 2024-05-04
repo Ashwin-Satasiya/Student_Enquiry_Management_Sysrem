@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": "6d71",
+      "name": "Jai",
+      "age": "15",
+      "gender": "male",
+      "contact_number": "8457294529"
+    },
+    {
+      "name": "Nayan",
+      "age": "16",
+      "gender": "male",
+      "contact_number": "8373372893",
+      "id": "deae"
+    },
+    {
+      "id": "6c3b",
+      "name": "Mayur",
+      "age": "15",
+      "gender": "male",
+      "contact_number": "8389052739"
+    },
+    {
+      "id": "e015",
+      "name": "Mayank",
+      "age": "17",
+      "gender": "male",
+      "contact_number": "7834529453"
+    }
+  ]
+}
